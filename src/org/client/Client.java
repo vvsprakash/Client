@@ -8,6 +8,9 @@ public class Client {
 		boolean startsWith = s.startsWith("j");
 		boolean endsWith = s.endsWith("a");
 		boolean equals = s.equals(lowerCase);
+		System.out.println("100");
+		System.out.println("200");
+		System.out.println("50000");
 		
 	}
 	
