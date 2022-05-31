@@ -11,6 +11,8 @@ public class Client {
 		System.out.println("100");
 		System.out.println("200");
 		System.out.println("50000");
+		System.out.println("20");
+		System.out.println("2000");
 		
 	}
 	
